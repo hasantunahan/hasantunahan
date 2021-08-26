@@ -1,4 +1,4 @@
-### Hi there 👋v
+### Hi there, I'm Hasan Tunahan 👋
 
 <!--
 **hasantunahan/hasantunahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
